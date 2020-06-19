@@ -6,8 +6,8 @@ README.html
 static/js/application.js
 
 # Database (SQLite)
-database.db
-database.db-journal
+db/database.db
+db/database.db-journal
 
 # Campaign descriptions
 static/campaigns/**/*.md
