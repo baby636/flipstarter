@@ -14,7 +14,7 @@
   "author": "Jonathan Silverblood",
   "license": "MIT",
   "dependencies": {
-    "async-mutex": "^0.1.4",
+    "async-mutex": "^0.3.2",
     "better-sqlite3": "^7.1.2",
     "bitbox-sdk": "^8.11.2",
     "canvas-confetti": "^1.2.0",
