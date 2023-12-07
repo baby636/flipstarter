@@ -19,7 +19,7 @@
     "bitbox-sdk": "^8.11.2",
     "canvas-confetti": "^1.2.0",
     "cors": "^2.8.5",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "dompurify": "^2.0.11",
     "electrum-cash": "^2.0.1",
     "express": "^4.17.1",
