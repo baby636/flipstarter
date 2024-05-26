@@ -28,10 +28,10 @@
     "materialize-css": "^1.0.0",
     "moment": "^2.24.0",
     "node-static": "^0.7.11",
-    "webpack": "^4.43.0",
+    "webpack": "^5.1.1",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^9.0.0"
   }
 }
