@@ -20,7 +20,7 @@
     "canvas-confetti": "^1.2.0",
     "cors": "^2.8.5",
     "debug": "^4.1.1",
-    "dompurify": "^2.0.11",
+    "dompurify": "^3.2.4",
     "electrum-cash": "^2.0.1",
     "express": "^4.17.1",
     "express-sse": "^0.5.1",
@@ -28,7 +28,7 @@
     "materialize-css": "^1.0.0",
     "moment": "^2.24.0",
     "node-static": "^0.7.11",
-    "webpack": "^4.43.0",
+    "webpack": "^5.98.0",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
